@@ -1,10 +1,12 @@
 # Kung Fu Panda
-
+> About the movie
 ## Overview
-**Kung Fu Panda** is an animated martial arts comedy film that follows the journey of a clumsy, overweight panda named Po, who aspires to become a kung fu master.
+**Kung Fu Panda** is an animated martial arts comedy film that follows the journey of a clumsy, overweight panda named Po,
+who aspires to become a kung fu master.
 
 ## Plot
-In the Valley of Peace, Po's dreams come true when he is unexpectedly chosen to fulfill an ancient prophecy and train alongside his kung fu idols, the Furious Five. Together, they must face the formidable villain Tai Lung and save their land from impending danger.
+In the Valley of Peace, Po's dreams come true when he is unexpectedly chosen to fulfill an ancient prophecy and train alongside 
+his kung fu idols, the Furious Five. Together, they must face the formidable villain Tai Lung and save their land from impending danger.
 
 ## Themes
 - **Friendship:** Po learns the importance of teamwork and camaraderie as he bonds with the members of the Furious Five.
