@@ -1,5 +1,5 @@
 # Application-dev
-**My first Repository**
+- My first Repository
 # Kung Fu Panda
 
 # Overview
