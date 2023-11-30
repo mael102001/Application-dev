@@ -15,13 +15,13 @@ his kung fu idols, the Furious Five. Together, they must face the formidable vil
 - **Self-Discovery:** The movie explores Po's journey of self-discovery as he embraces his uniqueness and finds his inner strength.
 - **Courage:** Facing adversity, Po must summon the courage to stand up against powerful adversaries.
 
-**Production**
+# Production
 1 **Directors:** Mark Osborne, John Stevenson
 2 **Release Date:** June 6, 2008
 3 **Production Studio:** DreamWorks Animation
 4 **Box Office:** Over $631 million worldwide
 
-**Reception**
+# Reception
 - **Critical Acclaim:** Kung Fu Panda received positive reviews for its animation, humor, and engaging storyline.
 - **Awards:** Nominated for an Academy Award for Best Animated Feature.
 
