@@ -3,8 +3,8 @@ My first repository
 # Kung Fu Panda
 
 # Overview
-**Kung Fu Panda** is an animated martial arts comedy film that follows the journey of a clumsy, overweight panda named Po,
-who aspires to become a kung fu master.
+**Kung Fu Panda** *is an animated martial arts comedy film that follows the journey of a clumsy, overweight panda named Po,
+who aspires to become a kung fu master.*
 
 # Plot
 In the Valley of Peace, Po's dreams come true when he is unexpectedly chosen to fulfill an ancient prophecy and train alongside 
