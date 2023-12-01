@@ -16,10 +16,10 @@ his kung fu idols, the Furious Five. Together, they must face the formidable vil
 - **Courage:** Facing adversity, Po must summon the courage to stand up against powerful adversaries.
 
 # Production
-1 **Directors:** Mark Osborne, John Stevenson
-2 **Release Date:** June 6, 2008
-3 **Production Studio:** DreamWorks Animation
-4 **Box Office:** Over $631 million worldwide
+1. **Directors:** Mark Osborne, John Stevenson
+2. **Release Date:** June 6, 2008
+3. **Production Studio:** DreamWorks Animation
+4. **Box Office:** Over $631 million worldwide
 
 # Reception
 - **Critical Acclaim:** Kung Fu Panda received positive reviews for its animation, humor, and engaging storyline.
